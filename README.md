@@ -20,6 +20,8 @@ O aplicativo interpreta a mensagem, identifica o valor, a data e a categoria e r
 
 No vídeo abaixo, apresento a jornada principal do **Seu Dinheiro Fácil**, desde o registro de uma movimentação em linguagem natural até sua visualização no Dashboard.
 
+![Demonstração do Seu Dinheiro Fácil](./demonstracao-seu-dinheiro-facil.gif)
+
 ---
 
 # 📋 PRD utilizado
